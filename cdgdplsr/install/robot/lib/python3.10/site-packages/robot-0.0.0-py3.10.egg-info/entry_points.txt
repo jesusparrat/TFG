@@ -1,0 +1,5 @@
+[console_scripts]
+driving_robot = robot.driving_node:main
+subscriber_node = robot.listener:main
+talker_node = robot.talker:main
+
