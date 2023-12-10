@@ -1,0 +1,25 @@
+[0.352s] Invoking command in '/home/msijesus/tfg/cdgdplsr/src/robot': PYTHONPATH=/home/msijesus/tfg/cdgdplsr/build/robot/prefix_override:/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot build --build-base /home/msijesus/tfg/cdgdplsr/build/robot/build install --record /home/msijesus/tfg/cdgdplsr/build/robot/install.log --single-version-externally-managed
+[0.471s] running egg_info
+[0.471s] writing ../../build/robot/robot.egg-info/PKG-INFO
+[0.471s] writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+[0.471s] writing entry points to ../../build/robot/robot.egg-info/entry_points.txt
+[0.471s] writing requirements to ../../build/robot/robot.egg-info/requires.txt
+[0.471s] writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+[0.472s] reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.473s] writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.473s] running build
+[0.473s] running build_py
+[0.473s] copying robot/talker.py -> /home/msijesus/tfg/cdgdplsr/build/robot/build/lib/robot
+[0.473s] running install
+[0.473s] running install_lib
+[0.473s] copying /home/msijesus/tfg/cdgdplsr/build/robot/build/lib/robot/talker.py -> /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot
+[0.473s] byte-compiling /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/talker.py to talker.cpython-310.pyc
+[0.474s] running install_data
+[0.474s] running install_egg_info
+[0.475s] removing '/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.475s] Copying ../../build/robot/robot.egg-info to /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+[0.475s] running install_scripts
+[0.485s] Installing subscriber_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.485s] Installing talker_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.485s] writing list of installed files to '/home/msijesus/tfg/cdgdplsr/build/robot/install.log'
+[0.496s] Invoked command in '/home/msijesus/tfg/cdgdplsr/src/robot' returned '0': PYTHONPATH=/home/msijesus/tfg/cdgdplsr/build/robot/prefix_override:/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot build --build-base /home/msijesus/tfg/cdgdplsr/build/robot/build install --record /home/msijesus/tfg/cdgdplsr/build/robot/install.log --single-version-externally-managed

@@ -1,0 +1,5 @@
+  File "/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/go_to_goal.py", line 31
+    def go_to_goal_function:
+                           ^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/robot/robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+writing entry points to ../../build/robot/robot.egg-info/entry_points.txt
+writing requirements to ../../build/robot/robot.egg-info/requires.txt
+writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying urdf/robot.urdf -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/urdf
+copying meshes/wheel_l_2.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/base_link_2.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/front_caster_2.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/wheel_r_2.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/base_link.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/wheel_r.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/front_caster.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/wheel_l.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+running install_egg_info
+removing '/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/robot/robot.egg-info to /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing subscriber_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+Installing talker_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+writing list of installed files to '/home/msijesus/tfg/cdgdplsr/build/robot/install.log'

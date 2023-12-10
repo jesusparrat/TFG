@@ -1,0 +1,5 @@
+[console_scripts]
+driving_node = robot.driving_node:main
+driving_robot = robot.driving_robot:main
+go_to_goal_node = robot.go_to_goal:main
+
