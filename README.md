@@ -23,11 +23,9 @@ msg.angular.x = 0.5
 ```
 el robot se mueve en línea recta, en lugar de en forma angular. 
 
-Video explicación del problema: 
+[Video explicación del problema](https://drive.google.com/file/d/1a72q6izeQrHVVZc0xoRs60AVSFdOi1KO/view?usp=sharing): 
 
-<video width="640" height="420" controls>
-  <source src="problemas_angular_linear.webm" type="video/webm">
-</video>
+![](problemas_angular_linear.gif)
 
 
 ## Solución: 
