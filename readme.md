@@ -1,5 +1,4 @@
-# TFG
-## Material del TFG: Creación de Gemelos Digitales para la Simulación Robótica. 
+# TFG: Creación de Gemelos Digitales para la Simulación Robótica. 
 # Rama: problemas_robot
 Rama dedicada a la visualización de la simulación dentro de un laberinto, pero únicamente controlado por el controlador nativo de ROS2: 
 
