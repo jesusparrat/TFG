@@ -23,6 +23,13 @@ msg.angular.x = 0.5
 ```
 el robot se mueve en línea recta, en lugar de en forma angular. 
 
+Video explicación del problema: 
+
+<video width="640" height="420" controls>
+  <source src="problemas_angular_linear.webm" type="video/webm">
+</video>
+
+
 ## Solución: 
 Cambiar el modelo del robot de nuevo, ya que el que creé daba fallos. Este nuevo robot se encuentra en la Rama: [robot_laberinto_keyboard](https://github.com/jesusparrat/TFG/tree/robot_laberinto_keyboard). Las modificaciones fueron: cambiar el archivo 
 ```text
