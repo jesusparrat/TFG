@@ -12,7 +12,6 @@ En una terminal paralela, correr el siguiente código para iniciar ejecutar el p
 ```bash
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
+[Vídeo explicativo](https://drive.google.com/file/d/1YqFXenKSTBmX3yUfVSwQUJPj2Xmp33Rm/view?usp=drive_link): 
 
-<video width="640" height="420" controls>
-  <source src="robot_controlado_teclado.webm" type="video/webm">
-</video>
+![](robot_controlado_teclado.gif)
