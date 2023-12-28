@@ -8,11 +8,11 @@ from scripts import GazeboRosPaths
 def generate_launch_description():
     package_share_dir = get_package_share_directory("robot")
     urdf_file = os.path.join(package_share_dir, "urdf", "robot.urdf")
-    world_file = os.path.join(package_share_dir, "worlds", "robot_maze_camera.world")
+    world_file = os.path.join(package_share_dir, "worlds", "camera_maze.world")
 
     model_path, plugin_path, media_path = GazeboRosPaths.get_paths()
     env = {
-        "GAZEBO_MODEL_PATH": model_path, # as we only to add maze_bot(model) into gazebo models path
+        "GAZEBO_MODEL_PATH": model_path, # as we only to add robot(model) into gazebo models path
         "GAZEBO_PLUGIN_PATH": plugin_path,
         "GAZEBO_RESOURCE_PATH": media_path,
     }
@@ -35,10 +35,10 @@ def generate_launch_description():
                 output="screen",
                 arguments=[urdf_file],
             ),
-        #     spawn_robot = Node(
-        # package="gazebo_ros",
-        # executable="spawn_entity.py",
-        # arguments=["-topic", "robot_description", "-entity", "robot", "-x", "0.0", "-y", "0.0", "-z", "0.0"],
-        # output="screen")
+            Node(
+                package="gazebo_ros",
+                executable="spawn_entity.py",
+                arguments=["-topic", "robot_description", "-entity", "robot", "-x", "0.0", "-y", "0.0", "-z", "0.0"],
+                output="screen")
         ]
     )

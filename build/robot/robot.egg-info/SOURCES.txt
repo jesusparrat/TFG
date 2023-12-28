@@ -14,6 +14,8 @@ launch/robot_camera_maze.launch.py
 launch/rviz.launch.py
 meshes/_1.blend
 meshes/_1.blend1
+meshes/_2.blend
+meshes/_2.x3d
 meshes/base_link.stl
 meshes/base_link_PR.stl
 meshes/front_caster.stl
@@ -29,7 +31,9 @@ robot/driving_node.py
 robot/driving_robot.py
 robot/go_to_goal.py
 robot/listener.py
+robot/maze_solver.py
 robot/talker.py
+robot/video_saver.py
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py

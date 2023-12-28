@@ -1,0 +1,23 @@
+[0.431s] Invoking command in '/home/msijesus/tfg/cdgdplsr/src/robot': PYTHONPATH=/home/msijesus/tfg/cdgdplsr/build/robot/prefix_override:/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot build --build-base /home/msijesus/tfg/cdgdplsr/build/robot/build install --record /home/msijesus/tfg/cdgdplsr/build/robot/install.log --single-version-externally-managed
+[0.573s] running egg_info
+[0.573s] writing ../../build/robot/robot.egg-info/PKG-INFO
+[0.574s] writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+[0.574s] writing entry points to ../../build/robot/robot.egg-info/entry_points.txt
+[0.574s] writing requirements to ../../build/robot/robot.egg-info/requires.txt
+[0.575s] writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+[0.576s] reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.576s] writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.576s] running build
+[0.577s] running build_py
+[0.577s] running install
+[0.577s] running install_lib
+[0.578s] running install_data
+[0.579s] running install_egg_info
+[0.580s] removing '/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.580s] Copying ../../build/robot/robot.egg-info to /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+[0.580s] running install_scripts
+[0.591s] Installing driving_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.591s] Installing driving_robot script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.591s] Installing go_to_goal_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.591s] writing list of installed files to '/home/msijesus/tfg/cdgdplsr/build/robot/install.log'
+[0.603s] Invoked command in '/home/msijesus/tfg/cdgdplsr/src/robot' returned '0': PYTHONPATH=/home/msijesus/tfg/cdgdplsr/build/robot/prefix_override:/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot build --build-base /home/msijesus/tfg/cdgdplsr/build/robot/build install --record /home/msijesus/tfg/cdgdplsr/build/robot/install.log --single-version-externally-managed

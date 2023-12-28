@@ -32,6 +32,8 @@ setup(
             'driving_robot = robot.driving_robot:main',
             'driving_node = robot.driving_node:main',
             'go_to_goal_node = robot.go_to_goal:main',
+            'video_save_node = robot.video_saver:main',
+            'maze_solver_node = robot.maze_solver:main',
 
         ],
     },

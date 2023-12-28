@@ -1,15 +1,19 @@
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/driving_node.py
+/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/video_saver.py
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__init__.py
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/driving_robot.py
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/talker.py
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/listener.py
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/go_to_goal.py
+/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/maze_solver.py
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/driving_node.cpython-310.pyc
+/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/video_saver.cpython-310.pyc
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/__init__.cpython-310.pyc
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/driving_robot.cpython-310.pyc
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/talker.cpython-310.pyc
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/listener.cpython-310.pyc
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/go_to_goal.cpython-310.pyc
+/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/__pycache__/maze_solver.cpython-310.pyc
 /home/msijesus/tfg/cdgdplsr/install/robot/share/ament_index/resource_index/packages/robot
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/package.xml
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/urdf/robot copy.urdf
@@ -18,8 +22,10 @@
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/readme.md
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/base_link_PR.stl
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/wheel_l_PR.stl
+/home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/_2.x3d
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/wheel_r_PR.stl
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/base_link.stl
+/home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/_2.blend
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/_1.blend
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/wheel_r.stl
 /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes/front_caster_PR.stl
@@ -42,3 +48,5 @@
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot/driving_node
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot/driving_robot
 /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot/go_to_goal_node
+/home/msijesus/tfg/cdgdplsr/install/robot/lib/robot/maze_solver_node
+/home/msijesus/tfg/cdgdplsr/install/robot/lib/robot/video_save_node

@@ -19,7 +19,7 @@
 
     <collision>
       <geometry>
-        <mesh filename="package://robot/meshes/base_link.stl" />
+        <mesh filename="package://robot/meshes/base_link_PR.stl" />
       </geometry>
       <contact_coefficients mu="1" mu2="1" kp="1e+13.0" kd="1.0" />
     </collision>
@@ -201,14 +201,14 @@
     <material>Gazebo/Black</material>
   </gazebo>
   <gazebo reference="caster">
-    <material>Gazebo/White</material>
+    <material>Gazebo/Yellow</material>
   </gazebo>
 
   <gazebo reference="wheel_right">
-    <material>Gazebo/Orange</material>
+    <material>Gazebo/Red</material>
   </gazebo>
   <gazebo reference="wheel_left">
-    <material>Gazebo/Orange</material>
+    <material>Gazebo/Red</material>
   </gazebo>
 
 

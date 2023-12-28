@@ -56,7 +56,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Gray</name>
             </script>
           </material>
         </visual>
@@ -437,7 +437,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0.996078 0.47451 0.0196078 1</ambient>
           </material>
@@ -482,7 +482,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -527,7 +527,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0.996078 0.47451 0.0196078 1</ambient>
           </material>
@@ -572,7 +572,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -617,7 +617,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -662,7 +662,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -707,7 +707,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -752,9 +752,9 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Bricks</name>
+              <name>Gazebo/Blue</name>
             </script>
-            <ambient>0.435294 0.796078 0.67451 1</ambient>
+            <ambient>0 0 1</ambient>
           </material>
           <meta>
             <layer>0</layer>
@@ -797,7 +797,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -842,7 +842,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -887,9 +887,9 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Bricks</name>
+              <name>Gazebo/Blue</name>
             </script>
-            <ambient>0.435294 0.796078 0.67451 1</ambient>
+            <ambient>0 0 1</ambient>
           </material>
           <meta>
             <layer>0</layer>
@@ -932,7 +932,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -977,7 +977,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -1022,7 +1022,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -1067,7 +1067,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0.996078 0.47451 0.0196078 1</ambient>
           </material>
@@ -1112,7 +1112,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0.996078 0.47451 0.0196078 1</ambient>
           </material>
@@ -1157,7 +1157,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0.996078 0.47451 0.0196078 1</ambient>
           </material>
@@ -1202,7 +1202,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0.996078 0.47451 0.0196078 1</ambient>
           </material>
@@ -1247,7 +1247,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0.996078 0.47451 0.0196078 1</ambient>
           </material>
@@ -1292,7 +1292,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Bricks</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -1337,7 +1337,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -1382,7 +1382,7 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <ambient>0 0 0 1</ambient>
           </material>
@@ -1427,9 +1427,9 @@
           <material>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Bricks</name>
+              <name>Gazebo/Blue</name>
             </script>
-            <ambient>0.435294 0.796078 0.67451 1</ambient>
+            <ambient>0 0 1</ambient>
           </material>
           <meta>
             <layer>0</layer>
@@ -1443,10 +1443,10 @@
       <static>1</static>
     </model>
     <state world_name='default'>
-      <sim_time>375 945000000</sim_time>
-      <real_time>206 544086959</real_time>
-      <wall_time>1702217181 57730302</wall_time>
-      <iterations>203560</iterations>
+      <sim_time>2679 31000000</sim_time>
+      <real_time>213 500136005</real_time>
+      <wall_time>1702243156 924796270</wall_time>
+      <iterations>213139</iterations>
       <model name='Maze'>
         <pose>-3.80096 -4.43905 0 0 -0 0</pose>
         <scale>1 1 1</scale>
@@ -1600,41 +1600,41 @@
         </link>
       </model>
       <model name='model1'>
-        <pose>-4.41156 -4.5268 6.4927 0 -0 0</pose>
+        <pose>-3.79674 -4.52983 25.4 0 -0 0.021501</pose>
         <scale>1 1 1</scale>
         <link name='link_0'>
-          <pose>-4.41155 -4.5268 6.49269 0 -0 1.49784</pose>
+          <pose>-3.79673 -4.52984 25.4 0 -0 1.51934</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='robot'>
-        <pose>0.04552 -0.007514 0.0354 7e-05 0.059517 0.052304</pose>
+        <pose>0.317185 0.025269 0.035405 -0.000122 0.059468 0.17122</pose>
         <scale>1 1 1</scale>
         <link name='base_footprint'>
-          <pose>0.04552 -0.007514 0.0354 7e-05 0.059517 0.052304</pose>
-          <velocity>0.000367 0.000514 0.003149 -0.014765 0.011514 8e-05</velocity>
-          <acceleration>3.46844 5.784 4.81871 2.3041 0.683703 2.14309</acceleration>
-          <wrench>6.93688 11.568 9.63742 0 -0 0</wrench>
+          <pose>0.317185 0.025269 0.035405 -0.000122 0.059468 0.17122</pose>
+          <velocity>-7.4e-05 2.6e-05 0.000242 -0.004047 -0.002923 -0.000114</velocity>
+          <acceleration>1.33122 0.131285 -8.06843 3.11219 -1.32158 -0.506137</acceleration>
+          <wrench>2.66244 0.26257 -16.1369 0 -0 0</wrench>
         </link>
         <link name='caster'>
-          <pose>-0.095457 -0.021902 0.01378 -0.012502 0.058164 -0.160676</pose>
-          <velocity>0.000146 0.00021 0.004975 -0.021957 0.010398 -0.149414</velocity>
-          <acceleration>-0.78954 -0.528075 10.883 -1.79074 -0.578795 1.62352</acceleration>
-          <wrench>-0.592155 -0.396056 8.16226 0 -0 0</wrench>
+          <pose>0.178913 -0.005748 0.013779 0.053285 0.026314 1.28588</pose>
+          <velocity>1e-06 -1.3e-05 1e-06 0.010756 0.001214 0.211547</velocity>
+          <acceleration>0.091995 -0.001385 -6.48757 0.034428 0.470299 -1.00728</acceleration>
+          <wrench>0.068996 -0.001039 -4.86568 0 -0 0</wrench>
         </link>
         <link name='wheel_left'>
-          <pose>0.142841 -0.102559 0.069969 3e-06 -0.598687 -3.09088</pose>
-          <velocity>0.000854 0.001051 0.003412 -0.015111 0.012186 6.3e-05</velocity>
-          <acceleration>0.754464 2.09194 6.85764 -0.816901 -0.546105 -0.381624</acceleration>
-          <wrench>0.565848 1.56896 5.14323 0 -0 0</wrench>
+          <pose>0.425093 -0.057551 0.069998 3.14134 0.528981 0.169512</pose>
+          <velocity>-0.000223 0.000134 0.000827 -0.004731 -0.002857 -0.000136</velocity>
+          <acceleration>0.669792 -0.012353 -9.03178 2.09308 -0.525799 2.92101</acceleration>
+          <wrench>0.502344 -0.009265 -6.77383 0 -0 0</wrench>
         </link>
         <link name='wheel_right'>
-          <pose>0.13317 0.082187 0.069982 5.1e-05 0.471936 0.052323</pose>
-          <velocity>0.000878 0.001208 0.000781 -0.009152 0.011916 -4.5e-05</velocity>
-          <acceleration>2.02041 2.63427 -3.34564 -0.364592 0.499745 -0.731844</acceleration>
-          <wrench>1.51531 1.9757 -2.50923 0 -0 0</wrench>
+          <pose>0.39357 0.124743 0.069975 -3.14145 -0.39209 -2.97042</pose>
+          <velocity>-0.000177 0.000199 -2e-06 -0.002844 -0.002522 -6.8e-05</velocity>
+          <acceleration>0.702413 0.04968 -8.95928 -2.24329 -0.854474 2.94918</acceleration>
+          <wrench>0.526809 0.03726 -6.71946 0 -0 0</wrench>
         </link>
       </model>
       <light name='sun'>
@@ -1671,7 +1671,7 @@
             <lighting>1</lighting>
             <script>
               <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
+              <name>Gazebo/Blue</name>
             </script>
             <shader type='pixel'>
               <normal_map>__default__</normal_map>
@@ -1739,6 +1739,37 @@
             </contact>
           </surface>
         </collision>
+        <sensor type="maze_camera" name="maze_camera">
+          <pose>0 0 0 0 1.57 0</pose>
+          <update_rate>30</update_rate>
+          <visualize>1</visualize>
+          <camera name='head'>
+            <horizontal_fov>1.0856</horizontal_fov>
+            <image>
+              <width>1280</width>
+              <height>720</height>
+              <format>R8G8B8</format>
+            </image>
+            <clip>
+              <near>0.03</near>
+              <far>300</far>
+            </clip>
+            <noise>
+              <type>gaussian</type>
+              <mean>0</mean>
+              <stddev>0.007</stddev>
+            </noise>
+          </camera>
+          <plugin name='camera_controller' filename='libgazebo_ros_camera.so'>
+            <alwaysOn>true</alwaysOn>
+            <updateRate>0.0</updateRate>
+            <cameraName>/maze_camera</cameraName>
+            <imageTopicName>image_raw_maze</imageTopicName>
+            <cameraInfoTopicName>camera_info_maze</cameraInfoTopicName>
+            <frameName>camera_link_maze</frameName>
+            <hackBaseline>0.07</hackBaseline>
+          </plugin>
+        </sensor>
       </link>
       <static>1</static>
       <allow_auto_disable>1</allow_auto_disable>
@@ -1746,9 +1777,9 @@
     </model>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>11.3416 -0.204322 19.0426 0 0.869798 -2.93026</pose>
-        <view_controller>orbit</view_controller>
-        <projection_type>perspective</projection_type>
+        <pose>-5.54905 -0.350619 14.1397 -2e-06 1.5698 -3.05082</pose>
+        <view_controller>ortho</view_controller>
+        <projection_type>orthographic</projection_type>
       </camera>
     </gui>
   </world>

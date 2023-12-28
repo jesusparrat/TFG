@@ -1,0 +1,24 @@
+[0.433s] Invoking command in '/home/msijesus/tfg/cdgdplsr/src/robot': PYTHONPATH=/home/msijesus/tfg/cdgdplsr/build/robot/prefix_override:/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot build --build-base /home/msijesus/tfg/cdgdplsr/build/robot/build install --record /home/msijesus/tfg/cdgdplsr/build/robot/install.log --single-version-externally-managed
+[0.559s] running egg_info
+[0.559s] writing ../../build/robot/robot.egg-info/PKG-INFO
+[0.559s] writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+[0.560s] writing entry points to ../../build/robot/robot.egg-info/entry_points.txt
+[0.560s] writing requirements to ../../build/robot/robot.egg-info/requires.txt
+[0.560s] writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+[0.561s] reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.561s] writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.561s] running build
+[0.561s] running build_py
+[0.561s] running install
+[0.561s] running install_lib
+[0.562s] running install_data
+[0.563s] copying worlds/camera_maze.world -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/worlds
+[0.563s] running install_egg_info
+[0.563s] removing '/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.564s] Copying ../../build/robot/robot.egg-info to /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+[0.564s] running install_scripts
+[0.575s] Installing driving_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.575s] Installing driving_robot script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.575s] Installing go_to_goal_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+[0.575s] writing list of installed files to '/home/msijesus/tfg/cdgdplsr/build/robot/install.log'
+[0.587s] Invoked command in '/home/msijesus/tfg/cdgdplsr/src/robot' returned '0': PYTHONPATH=/home/msijesus/tfg/cdgdplsr/build/robot/prefix_override:/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot build --build-base /home/msijesus/tfg/cdgdplsr/build/robot/build install --record /home/msijesus/tfg/cdgdplsr/build/robot/install.log --single-version-externally-managed

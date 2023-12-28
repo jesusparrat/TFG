@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/robot/robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+writing entry points to ../../build/robot/robot.egg-info/entry_points.txt
+writing requirements to ../../build/robot/robot.egg-info/requires.txt
+writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying robot/video_saver.py -> /home/msijesus/tfg/cdgdplsr/build/robot/build/lib/robot
+running install
+running install_lib
+copying /home/msijesus/tfg/cdgdplsr/build/robot/build/lib/robot/video_saver.py -> /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot
+byte-compiling /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot/video_saver.py to video_saver.cpython-310.pyc
+running install_data
+copying urdf/robot.urdf -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/urdf
+copying meshes/_2.x3d -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/_2.blend -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+copying meshes/front_caster_PR.stl -> /home/msijesus/tfg/cdgdplsr/install/robot/share/robot/meshes
+running install_egg_info
+removing '/home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/robot/robot.egg-info to /home/msijesus/tfg/cdgdplsr/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing driving_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+Installing driving_robot script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+Installing go_to_goal_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+Installing video_save_node script to /home/msijesus/tfg/cdgdplsr/install/robot/lib/robot
+writing list of installed files to '/home/msijesus/tfg/cdgdplsr/build/robot/install.log'
