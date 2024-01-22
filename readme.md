@@ -44,5 +44,5 @@ Después de que se generen las ventanas de la fase de localización, pulsar una 
 
 [Video Demo del laberinto original:](https://drive.google.com/file/d/1eDpDY_rgECqPpCkO8eoJQ5hFiiXthry0/view?usp=sharing)
 
-[Video Demo del laberinto original:](ttps://drive.google.com/file/d/1uCoZC0gMX9zqMhfWEvaYSOzOpYkl1dRW/view?usp=sharing)
+[Video Demo del laberinto original:](https://drive.google.com/file/d/1uCoZC0gMX9zqMhfWEvaYSOzOpYkl1dRW/view?usp=sharing)
 
