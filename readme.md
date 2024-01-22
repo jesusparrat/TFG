@@ -39,18 +39,12 @@ Después de que se generen las ventanas de la fase de localización, pulsar una 
 
 
 
-Video Demo del laberinto original: 
-<video width="640" height="420" controls>
-  <source src="final_laberinto_O.webm" type="video/webm">
-</video>
+[Video Demo del laberinto original:]((url)(https://drive.google.com/file/d/1qx4PtUpN_my_yLa5Wj6ZzexJsb1gqxBW/view?usp=sharing)) 
+![](final_laberinto_0.gif)
 
-Video Demo del laberinto simple
-<video width="640" height="420" controls>
-  <source src="final_laberinto_1.webm" type="video/webm">
-</video>
+[Video Demo del laberinto original:]((url)(https://drive.google.com/file/d/1eDpDY_rgECqPpCkO8eoJQ5hFiiXthry0/view?usp=sharing)) 
+![](final_laberinto_1.gif)
 
-Video Demo del laberinto complejo
-<video width="640" height="420" controls>
-  <source src="final_laberinto_2.webm" type="video/webm">
-</video>
+[Video Demo del laberinto original:]((url)(https://drive.google.com/file/d/1uCoZC0gMX9zqMhfWEvaYSOzOpYkl1dRW/view?usp=sharing)) 
+![](final_laberinto_2.gif)
 
