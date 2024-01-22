@@ -40,20 +40,28 @@ ros2 run final maze_solver
 Después de que se generen las ventanas de la fase de localización, pulsar una tecla para las ventanas de la fase de mapeo. Otra tecla más para las rutas, y al final se ejecuta el nodo de resolución de laberintos. 
 
 
-Video Demo del laberinto original:
+### Video Demo del laberinto original:
 <video width="320" height="240" controls>
   <source src="final_laberinto_O.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
 </video>
 
-Video Demo del laberinto simple:
+[Video Demo del laberinto original.]((url)(https://drive.google.com/file/d/1qx4PtUpN_my_yLa5Wj6ZzexJsb1gqxBW/view?usp=sharing)) 
+
+
+
+### Video Demo del laberinto simple:
 <video width="320" height="240" controls>
   <source src="final_laberinto_1.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
 </video>
 
-Video Demo del laberinto complejo:
+[Video Demo del laberinto original.]((url)(https://drive.google.com/file/d/1eDpDY_rgECqPpCkO8eoJQ5hFiiXthry0/view?usp=sharing)) 
+
+
+
+### Video Demo del laberinto complejo:
+
 <video width="320" height="240" controls>
   <source src="final_laberinto_2.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
 </video>
+
+[Video Demo del laberinto original.]((url)(https://drive.google.com/file/d/1uCoZC0gMX9zqMhfWEvaYSOzOpYkl1dRW/view?usp=sharing)) 
