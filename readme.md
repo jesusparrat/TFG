@@ -1,22 +1,24 @@
-# TFG: Creación de Gemelos Digitales para la Simulación Robótica. 
+# TFG: Creación de Gemelos Digitales para la Simulación Robótica.
+
 ## Rama: FINAL
-Rama dedicada a subir los archivos finales del proyecto: Creación de Gemelos Digitales para la Simulación Robótica. El robot identificado para el proyecto será un pequeño robot que cumpla las condiciones de la competición Micromouse, y desarrollaremos la simulación en el entorno digital de Gazebo, apoyados por Robotics Operating System 2 (ROS 2). 
+
+Rama dedicada a subir los archivos finales del proyecto "Creación de Gemelos Digitales para la Simulación Robótica". El robot seleccionado para el proyecto es un pequeño robot que cumple con las condiciones de la competición Micromouse. La simulación se desarrollará en el entorno digital de Gazebo, con el respaldo de Robotics Operating System 2 (ROS 2).
 
 ### Utilización del repositorio:
-Descargar la carpeta 
-```bash
-/src
-``` 
-en cualquier carpeta local del PC. Convertirla en workspace de ROS 2 ejecutando dentro de esa carpeta, en una terminal:
+
+Descargar la carpeta `/src` y colocarla en cualquier carpeta local de la PC. Convertirla en un espacio de trabajo de ROS 2 ejecutando el siguiente comando dentro de esa carpeta en una terminal:
+
 ```bash
 cd /carpeta_base
 colcon build
 ```
+
 Una vez aquí, solo falta hacer el source al setup:
 ```bash
 cd /carpeta_base
 source install/setup.bash
-``` 
+```
+
 #### Ejecución del proyecto:
 Inicializar el mundo primero:
 ```bash
@@ -24,6 +26,7 @@ ros2 launch final mundo.launch.py
 ros2 launch final 1_mundo.launch.py*
 ros2 launch final 2_mundo.launch.py**
 ```
+
 Ejecutar un mundo a la vez. 
 
 \* Es la inicialización del mundo con el robot pero con un laberinto simple.
@@ -37,14 +40,9 @@ ros2 run final maze_solver
 Después de que se generen las ventanas de la fase de localización, pulsar una tecla para las ventanas de la fase de mapeo. Otra tecla más para las rutas, y al final se ejecuta el nodo de resolución de laberintos. 
 
 
+[Video Demo del laberinto original:](https://drive.google.com/file/d/1qx4PtUpN_my_yLa5Wj6ZzexJsb1gqxBW/view?usp=sharing)
 
+[Video Demo del laberinto original:](https://drive.google.com/file/d/1eDpDY_rgECqPpCkO8eoJQ5hFiiXthry0/view?usp=sharing)
 
-[Video Demo del laberinto original:]((url)(https://drive.google.com/file/d/1qx4PtUpN_my_yLa5Wj6ZzexJsb1gqxBW/view?usp=sharing)) 
-![](final_laberinto_0.gif)
-
-[Video Demo del laberinto original:]((url)(https://drive.google.com/file/d/1eDpDY_rgECqPpCkO8eoJQ5hFiiXthry0/view?usp=sharing)) 
-![](final_laberinto_1.gif)
-
-[Video Demo del laberinto original:]((url)(https://drive.google.com/file/d/1uCoZC0gMX9zqMhfWEvaYSOzOpYkl1dRW/view?usp=sharing)) 
-![](final_laberinto_2.gif)
+[Video Demo del laberinto original:](ttps://drive.google.com/file/d/1uCoZC0gMX9zqMhfWEvaYSOzOpYkl1dRW/view?usp=sharing)
 
